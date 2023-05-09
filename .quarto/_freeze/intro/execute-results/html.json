@@ -1,0 +1,14 @@
+{
+  "hash": "a485bb18ffdc27f648decd49f5f8e8fc",
+  "result": {
+    "markdown": "# Introduction\n\nThis is a book created from markdown and executable code.\n\nElia aime bien londres, elle est posay ici\n\nSee @knuth84 for additional discussion of literate programming.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
