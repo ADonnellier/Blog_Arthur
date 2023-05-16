@@ -1,10 +1,11 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Blog_BigA"
   author: "Big A"
-  date: "4/16/2023"
+  # date: "4/16/2023"
   chapters:
     - index.qmd
     - intro.qmd
