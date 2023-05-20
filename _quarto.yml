@@ -10,8 +10,8 @@ book:
     - index.qmd
     - intro.qmd
     - Bloomberg_HQ.qmd
-    - summary.qmd
     - London.qmd
+    - summary.qmd
     - references.qmd
 
 bibliography: references.bib
